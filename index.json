@@ -1,0 +1,2094 @@
+{
+  "library": "GregSullivan.E-Pianos",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/GregSullivan.E-Pianos",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48",
+  "branch": "master",
+  "fileCount": 172,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/",
+  "files": [
+    {
+      "file": "027-Ds1-F.opus",
+      "name": "027-Ds1-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/027-Ds1-F.opus",
+      "size": 52424,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "027-Ds1-FF.opus",
+      "name": "027-Ds1-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/027-Ds1-FF.opus",
+      "size": 67667,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "027-Ds1-MP.opus",
+      "name": "027-Ds1-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/027-Ds1-MP.opus",
+      "size": 40569,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "027-Ds1-PP.opus",
+      "name": "027-Ds1-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/027-Ds1-PP.opus",
+      "size": 29077,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "034-As1-MP.opus",
+      "name": "034-As1-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/034-As1-MP.opus",
+      "size": 31528,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "034-As1-PP.opus",
+      "name": "034-As1-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/034-As1-PP.opus",
+      "size": 28249,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "035-B1-F.opus",
+      "name": "035-B1-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/035-B1-F.opus",
+      "size": 65163,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "035-B1-FF.opus",
+      "name": "035-B1-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/035-B1-FF.opus",
+      "size": 50950,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "042-Fs2-F.opus",
+      "name": "042-Fs2-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/042-Fs2-F.opus",
+      "size": 77561,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "042-Fs2-FF.opus",
+      "name": "042-Fs2-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/042-Fs2-FF.opus",
+      "size": 49255,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "042-Fs2-MP.opus",
+      "name": "042-Fs2-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/042-Fs2-MP.opus",
+      "size": 76982,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "042-Fs2-PP.opus",
+      "name": "042-Fs2-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/042-Fs2-PP.opus",
+      "size": 67273,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "046-As2-F.opus",
+      "name": "046-As2-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/046-As2-F.opus",
+      "size": 69918,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "046-As2-FF.opus",
+      "name": "046-As2-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/046-As2-FF.opus",
+      "size": 63588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "046-As2-MP.opus",
+      "name": "046-As2-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/046-As2-MP.opus",
+      "size": 76762,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "050-D3-F.opus",
+      "name": "050-D3-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/050-D3-F.opus",
+      "size": 111006,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "050-D3-FF.opus",
+      "name": "050-D3-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/050-D3-FF.opus",
+      "size": 142446,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "050-D3-MP.opus",
+      "name": "050-D3-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/050-D3-MP.opus",
+      "size": 88338,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "050-D3-PP.opus",
+      "name": "050-D3-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/050-D3-PP.opus",
+      "size": 84461,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "053-F3-F.opus",
+      "name": "053-F3-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/053-F3-F.opus",
+      "size": 63428,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "053-F3-FF.opus",
+      "name": "053-F3-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/053-F3-FF.opus",
+      "size": 57476,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "053-F3-MP.opus",
+      "name": "053-F3-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/053-F3-MP.opus",
+      "size": 56493,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "057-A3-F.opus",
+      "name": "057-A3-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/057-A3-F.opus",
+      "size": 56200,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "057-A3-FF.opus",
+      "name": "057-A3-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/057-A3-FF.opus",
+      "size": 61804,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "057-A3-MP.opus",
+      "name": "057-A3-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/057-A3-MP.opus",
+      "size": 40583,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "057-A3-PP.opus",
+      "name": "057-A3-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/057-A3-PP.opus",
+      "size": 28240,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "060-C4-F.opus",
+      "name": "060-C4-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/060-C4-F.opus",
+      "size": 60163,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "060-C4-FF.opus",
+      "name": "060-C4-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/060-C4-FF.opus",
+      "size": 50743,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "060-C4-MP.opus",
+      "name": "060-C4-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/060-C4-MP.opus",
+      "size": 48968,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "063-Ds4-F.opus",
+      "name": "063-Ds4-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/063-Ds4-F.opus",
+      "size": 55349,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "063-Ds4-FF.opus",
+      "name": "063-Ds4-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/063-Ds4-FF.opus",
+      "size": 55837,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "063-Ds4-MP.opus",
+      "name": "063-Ds4-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/063-Ds4-MP.opus",
+      "size": 51014,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "063-Ds4-PP.opus",
+      "name": "063-Ds4-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/063-Ds4-PP.opus",
+      "size": 37144,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "065-F4-F.opus",
+      "name": "065-F4-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/065-F4-F.opus",
+      "size": 43526,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "065-F4-FF.opus",
+      "name": "065-F4-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/065-F4-FF.opus",
+      "size": 47899,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "065-F4-MP.opus",
+      "name": "065-F4-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/065-F4-MP.opus",
+      "size": 55720,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "065-F4-PP.opus",
+      "name": "065-F4-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/065-F4-PP.opus",
+      "size": 29562,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "068-Gs4-F.opus",
+      "name": "068-Gs4-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/068-Gs4-F.opus",
+      "size": 40658,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "068-Gs4-FF.opus",
+      "name": "068-Gs4-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/068-Gs4-FF.opus",
+      "size": 48146,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "068-Gs4-MP.opus",
+      "name": "068-Gs4-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/068-Gs4-MP.opus",
+      "size": 35664,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "068-Gs4-PP.opus",
+      "name": "068-Gs4-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/068-Gs4-PP.opus",
+      "size": 23369,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "072-C5-F.opus",
+      "name": "072-C5-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/072-C5-F.opus",
+      "size": 54711,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "072-C5-FF.opus",
+      "name": "072-C5-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/072-C5-FF.opus",
+      "size": 44771,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "072-C5-MP.opus",
+      "name": "072-C5-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/072-C5-MP.opus",
+      "size": 51651,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "072-C5-PP.opus",
+      "name": "072-C5-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/072-C5-PP.opus",
+      "size": 44492,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "076-E5-F.opus",
+      "name": "076-E5-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/076-E5-F.opus",
+      "size": 24844,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "076-E5-FF.opus",
+      "name": "076-E5-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/076-E5-FF.opus",
+      "size": 25349,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "076-E5-MP.opus",
+      "name": "076-E5-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/076-E5-MP.opus",
+      "size": 24854,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "080-Gs5-F.opus",
+      "name": "080-Gs5-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/080-Gs5-F.opus",
+      "size": 27680,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "080-Gs5-FF.opus",
+      "name": "080-Gs5-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/080-Gs5-FF.opus",
+      "size": 24574,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "080-Gs5-MP.opus",
+      "name": "080-Gs5-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/080-Gs5-MP.opus",
+      "size": 18855,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "080-Gs5-PP.opus",
+      "name": "080-Gs5-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/080-Gs5-PP.opus",
+      "size": 20103,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "082-As5-F.opus",
+      "name": "082-As5-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/082-As5-F.opus",
+      "size": 29801,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "082-As5-FF.opus",
+      "name": "082-As5-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/082-As5-FF.opus",
+      "size": 33864,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "082-As5-MP.opus",
+      "name": "082-As5-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/082-As5-MP.opus",
+      "size": 27431,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "085-Cs6-F.opus",
+      "name": "085-Cs6-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/085-Cs6-F.opus",
+      "size": 30215,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "085-Cs6-FF.opus",
+      "name": "085-Cs6-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/085-Cs6-FF.opus",
+      "size": 29956,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "085-Cs6-MP.opus",
+      "name": "085-Cs6-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/085-Cs6-MP.opus",
+      "size": 29068,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "085-Cs6-PP.opus",
+      "name": "085-Cs6-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/085-Cs6-PP.opus",
+      "size": 18941,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "088-E6-F.opus",
+      "name": "088-E6-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/088-E6-F.opus",
+      "size": 20193,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "088-E6-FF.opus",
+      "name": "088-E6-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/088-E6-FF.opus",
+      "size": 31702,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "088-E6-MP.opus",
+      "name": "088-E6-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/088-E6-MP.opus",
+      "size": 28278,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "091-G6-F.opus",
+      "name": "091-G6-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/091-G6-F.opus",
+      "size": 17198,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "091-G6-FF.opus",
+      "name": "091-G6-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/091-G6-FF.opus",
+      "size": 26057,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "091-G6-MP.opus",
+      "name": "091-G6-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/091-G6-MP.opus",
+      "size": 27801,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "091-G6-PP.opus",
+      "name": "091-G6-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/091-G6-PP.opus",
+      "size": 19026,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "095-B6-F.opus",
+      "name": "095-B6-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/095-B6-F.opus",
+      "size": 19143,
+      "note": "B6",
+      "midiNote": 95,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "095-B6-FF.opus",
+      "name": "095-B6-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/095-B6-FF.opus",
+      "size": 14841,
+      "note": "B6",
+      "midiNote": 95,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "095-B6-MP.opus",
+      "name": "095-B6-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/095-B6-MP.opus",
+      "size": 21779,
+      "note": "B6",
+      "midiNote": 95,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "097-Cs7-F.opus",
+      "name": "097-Cs7-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/097-Cs7-F.opus",
+      "size": 21068,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "097-Cs7-FF.opus",
+      "name": "097-Cs7-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/097-Cs7-FF.opus",
+      "size": 16761,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "097-Cs7-MP.opus",
+      "name": "097-Cs7-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/097-Cs7-MP.opus",
+      "size": 17465,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "097-Cs7-PP.opus",
+      "name": "097-Cs7-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/097-Cs7-PP.opus",
+      "size": 14907,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "102-Fs7-F.opus",
+      "name": "102-Fs7-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/102-Fs7-F.opus",
+      "size": 14039,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "102-Fs7-FF.opus",
+      "name": "102-Fs7-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/102-Fs7-FF.opus",
+      "size": 15980,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "102-Fs7-MP.opus",
+      "name": "102-Fs7-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/102-Fs7-MP.opus",
+      "size": 14403,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "102-Fs7-PP.opus",
+      "name": "102-Fs7-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/102-Fs7-PP.opus",
+      "size": 13491,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "107-B7-F.opus",
+      "name": "107-B7-F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/107-B7-F.opus",
+      "size": 14933,
+      "note": "B7",
+      "midiNote": 107,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "107-B7-FF.opus",
+      "name": "107-B7-FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/107-B7-FF.opus",
+      "size": 14270,
+      "note": "B7",
+      "midiNote": 107,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "107-B7-MP.opus",
+      "name": "107-B7-MP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/107-B7-MP.opus",
+      "size": 9739,
+      "note": "B7",
+      "midiNote": 107,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "107-B7-PP.opus",
+      "name": "107-B7-PP.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/107-B7-PP.opus",
+      "size": 12631,
+      "note": "B7",
+      "midiNote": 107,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "29_F1_FF.opus",
+      "name": "29_F1_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/29_F1_FF.opus",
+      "size": 209601,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "29_F1_P.opus",
+      "name": "29_F1_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/29_F1_P.opus",
+      "size": 208664,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "29_F1_release.opus",
+      "name": "29_F1_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/29_F1_release.opus",
+      "size": 1917,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "33_A1_FF.opus",
+      "name": "33_A1_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/33_A1_FF.opus",
+      "size": 141982,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "33_A1_P.opus",
+      "name": "33_A1_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/33_A1_P.opus",
+      "size": 148165,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "33_A1_release.opus",
+      "name": "33_A1_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/33_A1_release.opus",
+      "size": 1475,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "37_Cs2_FF.opus",
+      "name": "37_Cs2_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/37_Cs2_FF.opus",
+      "size": 92782,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "37_Cs2_P.opus",
+      "name": "37_Cs2_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/37_Cs2_P.opus",
+      "size": 112114,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "37_Cs2_release.opus",
+      "name": "37_Cs2_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/37_Cs2_release.opus",
+      "size": 1087,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "41_F2_FF.opus",
+      "name": "41_F2_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/41_F2_FF.opus",
+      "size": 78757,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "41_F2_P.opus",
+      "name": "41_F2_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/41_F2_P.opus",
+      "size": 103977,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "41_F2_release.opus",
+      "name": "41_F2_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/41_F2_release.opus",
+      "size": 1197,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "45_A2_FF.opus",
+      "name": "45_A2_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/45_A2_FF.opus",
+      "size": 78942,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "45_A2_P.opus",
+      "name": "45_A2_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/45_A2_P.opus",
+      "size": 86333,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "45_A2_release.opus",
+      "name": "45_A2_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/45_A2_release.opus",
+      "size": 1326,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "47_B2_FF.opus",
+      "name": "47_B2_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/47_B2_FF.opus",
+      "size": 86745,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "49_Cs3_FF.opus",
+      "name": "49_Cs3_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/49_Cs3_FF.opus",
+      "size": 71131,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "49_Cs3_P.opus",
+      "name": "49_Cs3_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/49_Cs3_P.opus",
+      "size": 84730,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "49_Cs3_release.opus",
+      "name": "49_Cs3_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/49_Cs3_release.opus",
+      "size": 1735,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "52_E3_P.opus",
+      "name": "52_E3_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/52_E3_P.opus",
+      "size": 74352,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "53_F3_FF.opus",
+      "name": "53_F3_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/53_F3_FF.opus",
+      "size": 41885,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "53_F3_release.opus",
+      "name": "53_F3_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/53_F3_release.opus",
+      "size": 1303,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "57_A3_FF.opus",
+      "name": "57_A3_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/57_A3_FF.opus",
+      "size": 79447,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "57_A3_P.opus",
+      "name": "57_A3_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/57_A3_P.opus",
+      "size": 84024,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "57_A3_release.opus",
+      "name": "57_A3_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/57_A3_release.opus",
+      "size": 1053,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "61_Cs4_FF.opus",
+      "name": "61_Cs4_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/61_Cs4_FF.opus",
+      "size": 75172,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "61_Cs4_P.opus",
+      "name": "61_Cs4_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/61_Cs4_P.opus",
+      "size": 72004,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "61_Cs4_release.opus",
+      "name": "61_Cs4_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/61_Cs4_release.opus",
+      "size": 1479,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "65_F4_FF.opus",
+      "name": "65_F4_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/65_F4_FF.opus",
+      "size": 52898,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "65_F4_P.opus",
+      "name": "65_F4_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/65_F4_P.opus",
+      "size": 51568,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "65_F4_release.opus",
+      "name": "65_F4_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/65_F4_release.opus",
+      "size": 1215,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "69_A4_FF.opus",
+      "name": "69_A4_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/69_A4_FF.opus",
+      "size": 39047,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "69_A4_P.opus",
+      "name": "69_A4_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/69_A4_P.opus",
+      "size": 43224,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "69_A4_release.opus",
+      "name": "69_A4_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/69_A4_release.opus",
+      "size": 1166,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "73_Cs5_FF.opus",
+      "name": "73_Cs5_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/73_Cs5_FF.opus",
+      "size": 48266,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "73_Cs5_P.opus",
+      "name": "73_Cs5_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/73_Cs5_P.opus",
+      "size": 50931,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "73_Cs5_release.opus",
+      "name": "73_Cs5_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/73_Cs5_release.opus",
+      "size": 1569,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "77_F5_FF.opus",
+      "name": "77_F5_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/77_F5_FF.opus",
+      "size": 31404,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "77_F5_P.opus",
+      "name": "77_F5_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/77_F5_P.opus",
+      "size": 32802,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "77_F5_release.opus",
+      "name": "77_F5_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/77_F5_release.opus",
+      "size": 1244,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "81_A5_FF.opus",
+      "name": "81_A5_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/81_A5_FF.opus",
+      "size": 29920,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "81_A5_P.opus",
+      "name": "81_A5_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/81_A5_P.opus",
+      "size": 38081,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "81_A5_release.opus",
+      "name": "81_A5_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/81_A5_release.opus",
+      "size": 813,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "85_Cs6_FF.opus",
+      "name": "85_Cs6_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/85_Cs6_FF.opus",
+      "size": 33989,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "85_Cs6_P.opus",
+      "name": "85_Cs6_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/85_Cs6_P.opus",
+      "size": 36109,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "85_Cs6_release.opus",
+      "name": "85_Cs6_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/85_Cs6_release.opus",
+      "size": 1957,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "88_E6_FF.opus",
+      "name": "88_E6_FF.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/88_E6_FF.opus",
+      "size": 15298,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": "ff",
+      "roundRobin": null
+    },
+    {
+      "file": "88_E6_P.opus",
+      "name": "88_E6_P.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/88_E6_P.opus",
+      "size": 16974,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": "p",
+      "roundRobin": null
+    },
+    {
+      "file": "88_E6_release.opus",
+      "name": "88_E6_release.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/88_E6_release.opus",
+      "size": 1679,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a1f.opus",
+      "name": "a1f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/a1f.opus",
+      "size": 31464,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a1ff.opus",
+      "name": "a1ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/a1ff.opus",
+      "size": 45890,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a1mp.opus",
+      "name": "a1mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/a1mp.opus",
+      "size": 16650,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a1pp.opus",
+      "name": "a1pp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/a1pp.opus",
+      "size": 12479,
+      "note": "a1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "a2mp.opus",
+      "name": "a2mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/a2mp.opus",
+      "size": 16596,
+      "note": "a2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ab2pp.opus",
+      "name": "ab2pp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/ab2pp.opus",
+      "size": 22088,
+      "note": "ab2",
+      "midiNote": 44,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ab3f.opus",
+      "name": "ab3f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/ab3f.opus",
+      "size": 16032,
+      "note": "ab3",
+      "midiNote": 56,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ab3ff.opus",
+      "name": "ab3ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/ab3ff.opus",
+      "size": 21467,
+      "note": "ab3",
+      "midiNote": 56,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ab3mp.opus",
+      "name": "ab3mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/ab3mp.opus",
+      "size": 16279,
+      "note": "ab3",
+      "midiNote": 56,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ab3pp.opus",
+      "name": "ab3pp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/ab3pp.opus",
+      "size": 6523,
+      "note": "ab3",
+      "midiNote": 56,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ab4f.opus",
+      "name": "ab4f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/ab4f.opus",
+      "size": 20457,
+      "note": "ab4",
+      "midiNote": 68,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ab6f.opus",
+      "name": "ab6f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/ab6f.opus",
+      "size": 7015,
+      "note": "ab6",
+      "midiNote": 92,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "ab6mp.opus",
+      "name": "ab6mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/ab6mp.opus",
+      "size": 5442,
+      "note": "ab6",
+      "midiNote": 92,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "b2f.opus",
+      "name": "b2f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/b2f.opus",
+      "size": 26064,
+      "note": "b2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "b2ff.opus",
+      "name": "b2ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/b2ff.opus",
+      "size": 27947,
+      "note": "b2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "b4mp.opus",
+      "name": "b4mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/b4mp.opus",
+      "size": 6109,
+      "note": "b4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c2f.opus",
+      "name": "c2f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/c2f.opus",
+      "size": 37599,
+      "note": "c2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "c2ff.opus",
+      "name": "c2ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/c2ff.opus",
+      "size": 38779,
+      "note": "c2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "db4f.opus",
+      "name": "db4f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/db4f.opus",
+      "size": 15560,
+      "note": "db4",
+      "midiNote": 61,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "db4ff.opus",
+      "name": "db4ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/db4ff.opus",
+      "size": 20366,
+      "note": "db4",
+      "midiNote": 61,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "db4mp.opus",
+      "name": "db4mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/db4mp.opus",
+      "size": 13658,
+      "note": "db4",
+      "midiNote": 61,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "db4pp.opus",
+      "name": "db4pp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/db4pp.opus",
+      "size": 7063,
+      "note": "db4",
+      "midiNote": 61,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "db5f.opus",
+      "name": "db5f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/db5f.opus",
+      "size": 13170,
+      "note": "db5",
+      "midiNote": 73,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "db5ff.opus",
+      "name": "db5ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/db5ff.opus",
+      "size": 9988,
+      "note": "db5",
+      "midiNote": 73,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "db5mp.opus",
+      "name": "db5mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/db5mp.opus",
+      "size": 7286,
+      "note": "db5",
+      "midiNote": 73,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "db5pp.opus",
+      "name": "db5pp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/db5pp.opus",
+      "size": 2597,
+      "note": "db5",
+      "midiNote": 73,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "db6f.opus",
+      "name": "db6f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/db6f.opus",
+      "size": 7303,
+      "note": "db6",
+      "midiNote": 85,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "db6mp.opus",
+      "name": "db6mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/db6mp.opus",
+      "size": 8904,
+      "note": "db6",
+      "midiNote": 85,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "e2mp.opus",
+      "name": "e2mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/e2mp.opus",
+      "size": 14665,
+      "note": "e2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "e3f.opus",
+      "name": "e3f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/e3f.opus",
+      "size": 15005,
+      "note": "e3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "e3ff.opus",
+      "name": "e3ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/e3ff.opus",
+      "size": 19253,
+      "note": "e3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "e4ff.opus",
+      "name": "e4ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/e4ff.opus",
+      "size": 16395,
+      "note": "e4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb3mp.opus",
+      "name": "eb3mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/eb3mp.opus",
+      "size": 13207,
+      "note": "eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "eb3pp.opus",
+      "name": "eb3pp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/eb3pp.opus",
+      "size": 13314,
+      "note": "eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "f2f.opus",
+      "name": "f2f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/f2f.opus",
+      "size": 34926,
+      "note": "f2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "f2ff.opus",
+      "name": "f2ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/f2ff.opus",
+      "size": 39608,
+      "note": "f2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "g4ff.opus",
+      "name": "g4ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/g4ff.opus",
+      "size": 12787,
+      "note": "g4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "g4pp.opus",
+      "name": "g4pp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/g4pp.opus",
+      "size": 6298,
+      "note": "g4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "g5f.opus",
+      "name": "g5f.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/g5f.opus",
+      "size": 7168,
+      "note": "g5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "g5ff.opus",
+      "name": "g5ff.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/g5ff.opus",
+      "size": 5479,
+      "note": "g5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "g5mp.opus",
+      "name": "g5mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/g5mp.opus",
+      "size": 4725,
+      "note": "g5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "gb4mp.opus",
+      "name": "gb4mp.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/greg-sullivan-e-pianos-opus-48/master/gb4mp.opus",
+      "size": 10076,
+      "note": "gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "29": [
+      "29_F1_FF.opus",
+      "29_F1_P.opus",
+      "29_F1_release.opus"
+    ],
+    "33": [
+      "33_A1_FF.opus",
+      "33_A1_P.opus",
+      "33_A1_release.opus",
+      "a1f.opus",
+      "a1ff.opus",
+      "a1mp.opus",
+      "a1pp.opus"
+    ],
+    "35": [
+      "035-B1-F.opus",
+      "035-B1-FF.opus"
+    ],
+    "36": [
+      "c2f.opus",
+      "c2ff.opus"
+    ],
+    "40": [
+      "e2mp.opus"
+    ],
+    "41": [
+      "41_F2_FF.opus",
+      "41_F2_P.opus",
+      "41_F2_release.opus",
+      "f2f.opus",
+      "f2ff.opus"
+    ],
+    "44": [
+      "ab2pp.opus"
+    ],
+    "45": [
+      "45_A2_FF.opus",
+      "45_A2_P.opus",
+      "45_A2_release.opus",
+      "a2mp.opus"
+    ],
+    "47": [
+      "47_B2_FF.opus",
+      "b2f.opus",
+      "b2ff.opus"
+    ],
+    "50": [
+      "050-D3-F.opus",
+      "050-D3-FF.opus",
+      "050-D3-MP.opus",
+      "050-D3-PP.opus"
+    ],
+    "51": [
+      "eb3mp.opus",
+      "eb3pp.opus"
+    ],
+    "52": [
+      "52_E3_P.opus",
+      "e3f.opus",
+      "e3ff.opus"
+    ],
+    "53": [
+      "053-F3-F.opus",
+      "053-F3-FF.opus",
+      "053-F3-MP.opus",
+      "53_F3_FF.opus",
+      "53_F3_release.opus"
+    ],
+    "56": [
+      "ab3f.opus",
+      "ab3ff.opus",
+      "ab3mp.opus",
+      "ab3pp.opus"
+    ],
+    "57": [
+      "057-A3-F.opus",
+      "057-A3-FF.opus",
+      "057-A3-MP.opus",
+      "057-A3-PP.opus",
+      "57_A3_FF.opus",
+      "57_A3_P.opus",
+      "57_A3_release.opus"
+    ],
+    "60": [
+      "060-C4-F.opus",
+      "060-C4-FF.opus",
+      "060-C4-MP.opus"
+    ],
+    "61": [
+      "db4f.opus",
+      "db4ff.opus",
+      "db4mp.opus",
+      "db4pp.opus"
+    ],
+    "64": [
+      "e4ff.opus"
+    ],
+    "65": [
+      "065-F4-F.opus",
+      "065-F4-FF.opus",
+      "065-F4-MP.opus",
+      "065-F4-PP.opus",
+      "65_F4_FF.opus",
+      "65_F4_P.opus",
+      "65_F4_release.opus"
+    ],
+    "66": [
+      "gb4mp.opus"
+    ],
+    "67": [
+      "g4ff.opus",
+      "g4pp.opus"
+    ],
+    "68": [
+      "ab4f.opus"
+    ],
+    "69": [
+      "69_A4_FF.opus",
+      "69_A4_P.opus",
+      "69_A4_release.opus"
+    ],
+    "71": [
+      "b4mp.opus"
+    ],
+    "72": [
+      "072-C5-F.opus",
+      "072-C5-FF.opus",
+      "072-C5-MP.opus",
+      "072-C5-PP.opus"
+    ],
+    "73": [
+      "db5f.opus",
+      "db5ff.opus",
+      "db5mp.opus",
+      "db5pp.opus"
+    ],
+    "76": [
+      "076-E5-F.opus",
+      "076-E5-FF.opus",
+      "076-E5-MP.opus"
+    ],
+    "77": [
+      "77_F5_FF.opus",
+      "77_F5_P.opus",
+      "77_F5_release.opus"
+    ],
+    "79": [
+      "g5f.opus",
+      "g5ff.opus",
+      "g5mp.opus"
+    ],
+    "81": [
+      "81_A5_FF.opus",
+      "81_A5_P.opus",
+      "81_A5_release.opus"
+    ],
+    "85": [
+      "db6f.opus",
+      "db6mp.opus"
+    ],
+    "88": [
+      "088-E6-F.opus",
+      "088-E6-FF.opus",
+      "088-E6-MP.opus",
+      "88_E6_FF.opus",
+      "88_E6_P.opus",
+      "88_E6_release.opus"
+    ],
+    "91": [
+      "091-G6-F.opus",
+      "091-G6-FF.opus",
+      "091-G6-MP.opus",
+      "091-G6-PP.opus"
+    ],
+    "92": [
+      "ab6f.opus",
+      "ab6mp.opus"
+    ],
+    "95": [
+      "095-B6-F.opus",
+      "095-B6-FF.opus",
+      "095-B6-MP.opus"
+    ],
+    "107": [
+      "107-B7-F.opus",
+      "107-B7-FF.opus",
+      "107-B7-MP.opus",
+      "107-B7-PP.opus"
+    ]
+  }
+}
